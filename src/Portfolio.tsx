@@ -92,7 +92,7 @@ export const Portfolio: React.FC = () => {
             <p className="hero-subtitle" aria-label="Job title">Senior Software Engineer & Tech Lead</p>
             <h1 className="hero-title" aria-label="Main heading">Hi, I'm Victor — building scalable systems across Finance, HealthTech, and E-commerce.</h1>
             <p className="hero-description" aria-label="Professional summary">
-              Over 6 years of experience architecting cloud-native backends, leading dev teams, and solving complex engineering challenges with Java, Python, Node.js, and distributed systems.
+              Over 8 years of experience architecting cloud-native backends, leading dev teams, and solving complex engineering challenges with Java, Python, Node.js, and distributed systems.
             </p>
             <div className="cta-buttons" aria-label="Call to action buttons">
               <a href="#projects" className="btn btn-primary" aria-label="View my portfolio projects">View My Work</a>
